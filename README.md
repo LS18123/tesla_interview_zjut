@@ -1,7 +1,7 @@
 # tesla_interview_zjut
 浙工大研究院Python开发工程师（大模型后端方向）-笔试题
 
-本文档只做简单概述，详细内容详见FAILURE_ANALYSIS.md和说明文档
+本文档只做简单概述，详细内容详见FAILURE_ANALYSIS.md和Tesla_RAG_Technical_Report.PDF
 
 特斯拉跨年财报智能问答系统 (Tesla-Financial-RAG)
 
