@@ -1,0 +1,24 @@
+本文档负责说明在代码运行过程中需要用到的库
+
+另请注意在真实代码运行中更换自己的API key
+
+# 基础框架与 RAG 编排
+langchain>=0.1.0
+langchain-community
+langchain-openai  # 如果你使用的是 OpenAI 或兼容接口
+
+# PDF 解析与处理
+pdfplumber>=0.10.0 
+markdown>=3.5
+
+# 向量数据库与 Embedding
+chromadb>=0.4.0 
+sentence-transformers>=2.2.0 [cite: 39]
+pydantic>=2.0.0
+
+# 环境管理与工具
+python-dotenv>=1.0.0
+tqdm
+
+# 交互界面
+gradio>=4.0.0
